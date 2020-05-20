@@ -1,0 +1,13 @@
+lex.yy.c
+compiler
+.DS_Store
+.vs/
+Debug/
+
+#Output files
+parser.tab.c
+parser.tab.h
+parser.output
+
+#Files test script output
+test_output.txt

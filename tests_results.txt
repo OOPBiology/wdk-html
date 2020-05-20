@@ -1,0 +1,38 @@
+Valid html files: 
+test: .\valid_files\big_example_1.html,		result: Validation completed successfully!
+test: .\valid_files\comment_inside_body.html,		result: Validation completed successfully!
+test: .\valid_files\example_1.html,		result: Validation completed successfully!
+test: .\valid_files\example_2.html,		result: Validation completed successfully!
+test: .\valid_files\example_3.html,		result: Validation completed successfully!
+test: .\valid_files\header_tags_section.html,		result: Validation completed successfully!
+test: .\valid_files\only_body_code.html,		result: Validation completed successfully!
+test: .\valid_files\v-example_.html,		result: Validation completed successfully!
+test: .\valid_files\v-example_1.html,		result: Validation completed successfully!
+test: .\valid_files\v-example_10.html,		result: Validation completed successfully!
+test: .\valid_files\v-example_11.html,		result: Validation completed successfully!
+test: .\valid_files\v-example_12.html,		result: Validation completed successfully!
+test: .\valid_files\v-example_13.html,		result: Validation completed successfully!
+test: .\valid_files\v-example_15.html,		result: Validation completed successfully!
+test: .\valid_files\v-example_16.html,		result: Validation completed successfully!
+test: .\valid_files\v-example_17.html,		result: Validation completed successfully!
+test: .\valid_files\v-example_18.html,		result: Validation completed successfully!
+test: .\valid_files\v-example_19.html,		result: Validation completed successfully!
+test: .\valid_files\v-example_20.html,		result: Validation completed successfully!
+test: .\valid_files\v-example_21.html,		result: Validation completed successfully!
+test: .\valid_files\v-example_22.html,		result: Validation completed successfully!
+test: .\valid_files\v-example_23.html,		result: Validation completed successfully!
+test: .\valid_files\v-example_3.html,		result: Validation completed successfully!
+test: .\valid_files\v-example_4.html,		result: Validation completed successfully!
+test: .\valid_files\v-example_5.html,		result: Validation completed successfully!
+test: .\valid_files\v-example_6.html,		result: Validation completed successfully!
+test: .\valid_files\v-example_7.html,		result: Validation completed successfully!
+test: .\valid_files\v-example_8.html,		result: Validation completed successfully!
+test: .\valid_files\v-example_9.html,		result: Validation completed successfully!
+test: .\valid_files\valid_structure.html,		result: Validation completed successfully!
+ 
+Invalid html files: 
+test: .\invalid_files\empty_head_section.html,		result: Validation failed!
+test: .\invalid_files\example_1.html,		result: Validation failed!
+test: .\invalid_files\example_2.html,		result: Validation failed!
+test: .\invalid_files\example_3.html,		result: Validation failed!
+test: .\invalid_files\invalid_structure.html,		result: Validation failed!
